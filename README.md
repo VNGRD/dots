@@ -19,4 +19,4 @@
   - got some scripts [here](https://github.com/polybar/polybar-scripts)
   - font: cozettevector
 - term stuff: ranger, pfetch
-- other: kdeconnect, zathura
+- pdf reader: zathura
