@@ -1,5 +1,3 @@
-# dots
-
 ![https://github.com/VNGRD/dots/blob/main/prev.png](https://github.com/VNGRD/dots/blob/main/prev.png)
 
 - os: pop
@@ -14,4 +12,5 @@
   - some catppuccin color scheme for the text that i can't change send help
 - polybar
   - font: cozettevector
-- terminal file manager: ranger
+- term stuff: ranger, pfetch
+- other: kdeconnect
