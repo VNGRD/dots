@@ -1,4 +1,7 @@
 ![https://github.com/VNGRD/dots/blob/main/prev.png](https://github.com/VNGRD/dots/blob/main/prev.png)
+![https://github.com/VNGRD/dots/blob/main/prev2.png](https://github.com/VNGRD/dots/blob/main/prev2.png)
+![https://github.com/VNGRD/dots/blob/main/prev3.png](https://github.com/VNGRD/dots/blob/main/prev3.png)
+![https://github.com/VNGRD/dots/blob/main/prev4.png](https://github.com/VNGRD/dots/blob/main/prev4.png)
 
 - os: pop
 - de: gnome
