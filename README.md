@@ -20,3 +20,4 @@
   - font: cozettevector
 - term stuff: ranger, pfetch
 - pdf reader: zathura
+- firefox [theme](https://github.com/evanswa0606/firefox-simpletheme)
