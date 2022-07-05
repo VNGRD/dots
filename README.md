@@ -20,4 +20,6 @@
   - font: cozettevector
 - term stuff: ranger, pfetch
 - pdf reader: zathura
-- firefox [theme](https://github.com/evanswa0606/firefox-simpletheme)
+- firefox 
+  - [theme](https://github.com/evanswa0606/firefox-simpletheme)
+  - [tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
