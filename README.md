@@ -4,10 +4,11 @@
 ![https://github.com/VNGRD/dots/blob/main/prev4.png](https://github.com/VNGRD/dots/blob/main/prev4.png)
 
 - os: pop
-- de: gnome
+- de: gnome -> modified top bar to float when polybar not in use
   - theme: mojave-light-solid
   - icons: mcmojave-circle
   - font: roboto condensed
+  - extensions: hide top bar (lol)
 - wm: mutter
 - shell: fish
 - terminal: alacritty
