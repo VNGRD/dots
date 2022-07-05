@@ -14,6 +14,7 @@
   - alacritty-themes -> ashes light
   - some catppuccin color scheme for the text that i can't change send help
 - polybar
+  - modified colorblocks
   - font: cozettevector
 - term stuff: ranger, pfetch
-- other: kdeconnect
+- other: kdeconnect, zathura
