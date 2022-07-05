@@ -12,10 +12,11 @@
 - wm: mutter
 - shell: fish
 - terminal: alacritty
-  - alacritty-themes -> ashes light
+  - [alacritty-themes](https://github.com/rajasegar/alacritty-themes) -> ashes light
   - some catppuccin color scheme for the text that i can't change send help
 - polybar
-  - modified colorblocks
+  - modified [colorblocks](https://github.com/adi1090x/polybar-themes)
+  - got some scripts [here](https://github.com/polybar/polybar-scripts)
   - font: cozettevector
 - term stuff: ranger, pfetch
 - other: kdeconnect, zathura
