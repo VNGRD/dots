@@ -1,6 +1,6 @@
 # dots
 
-![https://raw.githubusercontent.com/VNGRD/dots/main/prev.png?token=GHSAT0AAAAAABVBPOQOGXJQHYFL3HV5IWPSYWDXBTA](https://raw.githubusercontent.com/VNGRD/dots/main/prev.png?token=GHSAT0AAAAAABVBPOQOGXJQHYFL3HV5IWPSYWDXBTA)
+![https://github.com/VNGRD/dots/blob/main/prev.png](https://github.com/VNGRD/dots/blob/main/prev.png)
 
 - os: pop
 - de: gnome
