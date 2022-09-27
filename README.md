@@ -1,25 +1,14 @@
 ![https://github.com/VNGRD/dots/blob/snowblind/prev.png](https://github.com/VNGRD/dots/blob/snowblind/prev.png)
-![https://github.com/VNGRD/dots/blob/snowblind/prev2.png](https://github.com/VNGRD/dots/blob/snowblind/prev2.png)
-![https://github.com/VNGRD/dots/blob/snowblind/prev3.png](https://github.com/VNGRD/dots/blob/snowblind/prev3.png)
-![https://github.com/VNGRD/dots/blob/snowblind/prev4.png](https://github.com/VNGRD/dots/blob/snowblind/prev4.png)
 
 - os: pop
-- de: gnome -> modified top bar to float when polybar not in use
-  - theme: mojave-light-solid
-  - icons: mcmojave-circle
+- de: gnome
+  - theme: [catppuccin-mocha-mauve](https://github.com/catppuccin/gtk)
+  - icons: [moka](https://github.com/snwh/moka-icon-theme)
   - font: roboto condensed
-  - extensions: hide top bar (lol)
+  - extensions: 
 - wm: mutter
 - shell: fish
 - terminal: alacritty
-  - [alacritty-themes](https://github.com/rajasegar/alacritty-themes) -> ashes light
-  - some catppuccin color scheme for the text that i can't change send help
-- polybar
-  - modified [colorblocks](https://github.com/adi1090x/polybar-themes)
-  - got some scripts [here](https://github.com/polybar/polybar-scripts)
-  - font: cozettevector
-- term stuff: ranger, pfetch
-- pdf reader: zathura
-- firefox 
-  - [theme](https://github.com/evanswa0606/firefox-simpletheme)
-  - [tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+  - [alacritty-themes](https://github.com/rajasegar/alacritty-themes) - catppuccin [color scheme](https://github.com/catppuccin/alacritty)
+- firefox
+  - [yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
