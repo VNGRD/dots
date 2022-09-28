@@ -16,5 +16,6 @@
 - firefox
   - [yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
 - [spotify](https://github.com/catppuccin/spicetify)
+- [wallpaper](https://unsplash.com/photos/pmfSR43nDTc)
 
 literally everything was pretty much grabbed from the catppuccin [ports](https://github.com/catppuccin/catppuccin#-ports-and-more) list
