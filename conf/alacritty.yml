@@ -159,32 +159,40 @@ font:
 #draw_bold_text_with_bright_colors: false
 # Colors (Nord)
 colors:
-  name: Ashes (light)
-  author: Chris Kempson
+  # Default colors
   primary:
-    background: "#f3f4f5"
-    foreground: "#565e65"
+    background: '0x1E1D2F'
+    foreground: '0xD9E0EE'
+
   cursor:
-    text: "#f3f4f5"
-    cursor: "#565e65"
+    text: '0x1E1D2F'
+    cursor: '0xF5E0DC'
+
+  # Normal colors
   normal:
-    black: "#1c2023"
-    red: "#c7ae95"
-    green: "#95c7ae"
-    yellow: "#aec795"
-    blue: "#ae95c7"
-    magenta: "#c795ae"
-    cyan: "#95aec7"
-    white: "#c7ccd1"
+    black: '0x6E6C7E'
+    red: '0xF28FAD'
+    green: '0xABE9B3'
+    yellow: '0xFAE3B0'
+    blue: '0x96CDFB'
+    magenta: '0xF5C2E7'
+    cyan: '0x89DCEB'
+    white: '0xD9E0EE'
+
+  # Bright colors
   bright:
-    black: "#747c84"
-    red: "#c7ae95"
-    green: "#95c7ae"
-    yellow: "#aec795"
-    blue: "#ae95c7"
-    magenta: "#c795ae"
-    cyan: "#95aec7"
-    white: "#f3f4f5"
+    black: '0x988BA2'
+    red: '0xF28FAD'
+    green: '0xABE9B3'
+    yellow: '0xFAE3B0'
+    blue: '0x96CDFB'
+    magenta: '0xF5C2E7'
+    cyan: '0x89DCEB'
+    white: '0xD9E0EE'
+
+  indexed_colors:
+    - { index: 16, color: '0xF8BD96' }
+    - { index: 17, color: '0xF5E0DC' }
 cursor:
   # Cursor style
   #style:
@@ -647,4 +655,4 @@ mouse:
   #log_level: Warn
   # Print all received window events.
   #print_events: false
-theme: Ashes.light
+theme: Catppuccin
