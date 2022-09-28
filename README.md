@@ -13,6 +13,7 @@
 - shell: fish w/ [catppuccin](https://github.com/catppuccin/fish) theme
 - terminal: alacritty
   - [alacritty-themes](https://github.com/rajasegar/alacritty-themes) - catppuccin [color scheme](https://github.com/catppuccin/alacritty)
+- [arttime](https://github.com/reportaman/arttime)
 - firefox
   - [yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
 - [spotify](https://github.com/catppuccin/spicetify)
