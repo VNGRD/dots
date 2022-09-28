@@ -1,7 +1,7 @@
-![https://github.com/VNGRD/dots/blob/catppuccin/cat1.png](https://github.com/VNGRD/dots/blob/catppuccin/cat1.png)
-![https://github.com/VNGRD/dots/blob/catppuccin/cat2.png](https://github.com/VNGRD/dots/blob/catppuccin/cat2.png)
-![https://github.com/VNGRD/dots/blob/catppuccin/cat3.png](https://github.com/VNGRD/dots/blob/catppuccin/cat3.png)
-![https://github.com/VNGRD/dots/blob/catppuccin/cat4.png](https://github.com/VNGRD/dots/blob/catppuccin/cat4.png)
+![https://github.com/VNGRD/dots/blob/catppuccin/assets/cat1.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/cat1.png)
+![https://github.com/VNGRD/dots/blob/catppuccin/assets/cat2.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/cat2.png)
+![https://github.com/VNGRD/dots/blob/catppuccin/assets/cat3.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/cat3.png)
+![https://github.com/VNGRD/dots/blob/catppuccin/assets/cat4.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/cat4.png)
 
 - os: pop
 - de: gnome
