@@ -1,22 +1,19 @@
-![https://github.com/VNGRD/dots/blob/catppuccin/assets/cat1.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/cat1.png)
-![https://github.com/VNGRD/dots/blob/catppuccin/assets/cat2.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/cat2.png)
-![https://github.com/VNGRD/dots/blob/catppuccin/assets/cat3.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/cat3.png)
-![https://github.com/VNGRD/dots/blob/catppuccin/assets/cat4.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/cat4.png)
+![https://github.com/VNGRD/dots/blob/catppuccin/assets/red-1.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/red-1.png)
+![https://github.com/VNGRD/dots/blob/catppuccin/assets/red-2.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/red-2.png)
+![https://github.com/VNGRD/dots/blob/catppuccin/assets/red-3.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/red-3.png)
 
-- os: pop
-- de: gnome
-  - theme: [catppuccin-mocha-mauve](https://github.com/catppuccin/gtk)
-  - icons: [moka](https://github.com/snwh/moka-icon-theme)
-  - font: roboto condensed
-  - extensions: app icon taskbar / mpris indicator button / space bar / spotify-tray
-- wm: mutter
-- shell: fish w/ [catppuccin](https://github.com/catppuccin/fish) theme
+named after my favorite ability (after stardiver) in ffxiv. <3
+- os: kubuntu 24.10
+- de: plasma 6
+  - theme: dark obsidian II
+  - icons: reversal-black
+  - font: ibm plex mono
+  - widgets: window title, panel colorizer. everything else is default
 - terminal: alacritty
-  - [alacritty-themes](https://github.com/rajasegar/alacritty-themes) - catppuccin [color scheme](https://github.com/catppuccin/alacritty)
-- [arttime](https://github.com/reportaman/arttime)
-- firefox
-  - [yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
-- [spotify](https://github.com/catppuccin/spicetify)
-- [wallpaper](https://unsplash.com/photos/pmfSR43nDTc)
-
-literally everything was pretty much grabbed from the catppuccin [ports](https://github.com/catppuccin/catppuccin#-ports-and-more) list
+  - [alacritty-themes](https://github.com/rajasegar/alacritty-themes) - monotheme
+- [arttime](https://github.com/reportaman/arttime), cmatrix
+- [textfox](https://github.com/adriankarlen/textfox)
+- edited [spicetify-tui](https://github.com/AvinashReddy3108/spicetify-tui?tab=readme-ov-file) theme
+- [wallpaper](https://github.com/Axenide/Ax-Shell/tree/main/assets/wallpapers_example)
+- [ulauncher](https://github.com/Ulauncher/Ulauncher) using slightly modified [essential dark theme](https://github.com/GiorgioReale/Ulauncher-Essential-Dark-Theme)
+- discord - [system24](https://github.com/refact0r/system24) monochrome
