@@ -1,6 +1,6 @@
-![https://github.com/VNGRD/dots/blob/catppuccin/assets/red-1.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/red-1.png)
-![https://github.com/VNGRD/dots/blob/catppuccin/assets/red-2.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/red-2.png)
-![https://github.com/VNGRD/dots/blob/catppuccin/assets/red-3.png](https://github.com/VNGRD/dots/blob/catppuccin/assets/red-3.png)
+![https://github.com/VNGRD/dots/blob/starcross/assets/red-1.png](https://github.com/VNGRD/dots/blob/starcross/assets/red-1.png)
+![https://github.com/VNGRD/dots/blob/starcross/assets/red-2.png](https://github.com/VNGRD/dots/blob/starcross/assets/red-2.png)
+![https://github.com/VNGRD/dots/blob/starcross/assets/red-3.png](https://github.com/VNGRD/dots/blob/starcross/assets/red-3.png)
 
 named after my favorite ability (after stardiver) in ffxiv. <3
 - os: kubuntu 24.10
