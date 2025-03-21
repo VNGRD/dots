@@ -9,6 +9,7 @@ named after my favorite ability (after stardiver) in ffxiv. <3
   - icons: reversal-black
   - font: ibm plex mono
   - widgets: window title, panel colorizer. everything else is default
+  - extras: krohnkite (tiling), dim inactive/transulcency (desk fx)
 - terminal: alacritty
   - [alacritty-themes](https://github.com/rajasegar/alacritty-themes) - monotheme
 - [arttime](https://github.com/reportaman/arttime), cmatrix
